@@ -27,3 +27,5 @@ arr = [4, 2, 7, 1, 3]
 print("Original Array:", arr) 
 quicksort_lomuto(arr, 0, len(arr) - 1) 
 print("Sorted Array:", arr)
+# Output
+# Sorted Array: [1,2,3,4,7]
