@@ -1,0 +1,23 @@
+Certainly! Decrease and Conquer is a problem-solving technique in computer science 
+where a problem is solved by dividing it into subproblems, solving one part of the problem, and then recursively applying the same approach to the remaining subproblems. 
+The key idea is to reduce the problem size in a controlled manner until a base case is reached, which can be solved directly.
+
+Lomuto Partition is a common algorithm used in quicksort for partitioning an array. Quicksort is a sorting algorithm that follows the Divide and Conquer paradigm.
+
+Let's break down the Lomuto Partition algorithm:
+
+Lomuto Partition Algorithm:
+
+Choose a pivot element from the array. The pivot is used to divide the array into two partitions. 
+
+Initialize two pointers, i and j, where i points to the first element of the array, and j iterates through the array from the second element. 
+
+Iterate through the array using j. If the element at index j is less than or equal to the pivot, swap the element at index j with the element at index i, and increment i. 
+
+Continue this process until j reaches the end of the array. 
+
+Swap the pivot element with the element at index i (the position where the pivot belongs).
+
+The array is now partitioned into two halves: elements less than or equal to the pivot on the left and elements greater than the pivot on the right. 
+
+Recursively apply the same partitioning process to the left and right subarrays.
