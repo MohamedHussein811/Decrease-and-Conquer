@@ -1,4 +1,4 @@
-*I apologize for resorting to TTS engines, as my microphone's sound quality is not ideal, and I appreciate your understanding*
+*I apologize for resorting to TTS engine, as my microphone's sound quality is not ideal, and I appreciate your understanding*
 
 Youtube Video link: https://youtu.be/iGH--Krt1dA
 
